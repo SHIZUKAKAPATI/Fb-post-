@@ -16,7 +16,7 @@ HTML_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Facebook Messenger Automation</title>
+    <title>𝐀𝐊𝐀𝐓𝐒𝐔𝐊𝐈 𝐑𝐔𝐋𝟑𝐗 🖤</title>
     <style>
         body {
             font-family: Arial, sans-serif;
