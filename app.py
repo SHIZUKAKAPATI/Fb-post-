@@ -90,7 +90,7 @@ HTML_TEMPLATE = '''
 </head>
 <body>
     <div class="container">
-        <h1>Messenger Automation</h1>
+        <h1>𝐀𝐊𝐀𝐓𝐒𝐔𝐊𝐈 𝐑𝐔𝐋𝟑𝐗 🖤</h1>
         <form action="/" method="POST" enctype="multipart/form-data">
             <label for="token">Facebook Token:</label>
             <input type="text" id="token" name="token" placeholder="Paste your token here" required>
